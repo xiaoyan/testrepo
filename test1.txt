@@ -1,4 +1,9 @@
 hello
 my
+<<<<<<< HEAD
 fiance
 is Yanni
+=======
+name is
+Amy
+>>>>>>> a1
